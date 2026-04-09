@@ -1,0 +1,61 @@
+
+
+Woosa Privacy Policy
+Woosa respects and protects the privacy of all users of its services. To provide you with more accurate and personalized services, Woosa will use and disclose your personal information in accordance with the provisions of this Privacy Policy. Woosa treats such information with a high degree of diligence and prudence. Except as otherwise provided herein, Woosa will not disclose or provide your personal information to any third party without your prior consent.
+This Privacy Policy may be updated periodically. By agreeing to the Woosa Service Agreement, you are deemed to have accepted the full content of this Privacy Policy, which is an integral part of the Woosa Service Agreement.
+1. Scope of Application
+1.1 Information Covered by This Policy
+The following information collected by Woosa is subject to this Privacy Policy:
+Personal registration information you provide when registering a Woosa account;
+Information automatically received and recorded by Woosa when you use its services or visit its platform, including but not limited to your IP address, browser type, language, access date and time, hardware and software features, and web pages visited;
+Your personal data obtained by Woosa from business partners through legal channels.
+1.2 Information Not Covered by This Policy
+The following information is not applicable to this Privacy Policy:
+Keyword information you enter when using the search service provided by Woosa;
+Publicly available information collected by Woosa, including but not limited to your participation in activities, transaction information, and evaluation details;
+Information related to measures taken by Woosa against you due to your violation of applicable laws, regulations, or Woosa’s rules.
+2. Collection and Use of Information
+2.1 General Personal Information
+Woosa collects and uses your personal information solely for the purpose of providing, maintaining, and improving its services. Woosa will not sell, rent, share, or trade your personal information to any unrelated third party without your prior consent.
+If a third party provides services to you with Woosa’s involvement (including Woosa Affiliated Companies), such third parties will be prohibited from accessing any of your personal information after the service ends, including information they could access during the service period.
+Woosa prohibits any third party from collecting, editing, selling, or disseminating your personal information without authorization. If any user is found engaging in such activities, Woosa has the right to immediately terminate the service agreement with that user.
+2.2 Health Data
+If you use health-related features of Woosa’s services, Woosa may collect and process your Health Data, including but not limited to breathing patterns, physiological data, exercise status, sleep data, and other health-related information you provide or generate while using the service.
+Health Data is used exclusively for the following purposes:
+Providing personalized health guidance and services;
+Improving the accuracy and functionality of health-related features;
+Analyzing service quality and user experience;
+Complying with legal requirements.
+Health Data will not be disclosed to third parties without your explicit consent, except as required by law.
+2.3 Personalized Services
+To better serve you, Woosa may use your personal information to provide you with information of interest (including but not limited to products and services), or share your information with Woosa’s partners to send you relevant product and service information, which requires your prior consent.
+3. Disclosure of Information
+Woosa may disclose all or part of your personal information in the following circumstances, in accordance with your wishes or legal provisions:
+To a third party with your prior explicit consent;
+As a necessary prerequisite for providing the products or services you request;
+To third parties, administrative authorities, or judicial bodies in accordance with relevant legal provisions or their requirements;
+When disclosure is necessary due to your violation of applicable laws, regulations, the Woosa Service Agreement, or related rules;
+When you are a qualified intellectual property owner who has filed a complaint, and disclosure is required to the respondent to handle potential rights disputes;
+In transactions conducted on the Woosa platform, if either party has fulfilled or partially fulfilled its transaction obligations and requests information disclosure, Woosa has the right to provide the user with necessary information (such as the other party’s contact details) to facilitate transaction completion or dispute resolution;
+Other disclosures deemed appropriate by Woosa in accordance with laws, regulations, or platform policies.
+4. Storage, Retention and Exchange of Information
+4.1 Storage and Exchange
+Your information collected by Woosa will be stored on the servers of Woosa and/or its affiliated companies. Such information may be transmitted to, accessed, stored, and displayed in your country, region, or overseas where Woosa’s information collection servers are located.
+4.2 Retention Period
+Woosa retains your personal information (including Health Data) only for as long as necessary to fulfill the purposes for which it was collected, or as required by applicable laws. Generally, user account data will be retained for 2 years after your account becomes inactive, unless longer retention is mandated by law.
+4.3 How Data Is Retained
+You’re required to tell users how long you store/retain their user data. Does not state how data is deleted You’re required to tell users how long you store/retain their data, and how they can have their data deleted from your app Where this issue was found This issue may also be found in other locations. Check all areas of your app when fixing this issue.
+5. User Rights: Access, Correction and Deletion of Data
+You have the right to access, correct, or request the deletion of your personal data at any time:
+You may view and edit your personal information through the account settings in the Woosa service;
+To request the deletion of your account and all associated personal data (including Health Data), you may submit a deletion request through the in-app support channel or contact Woosa’s customer service;
+Upon verification of your identity, Woosa will delete or anonymize your data within 30 days of receiving your deletion request, except where retention is required by law.
+6. Use of Cookies
+If you do not refuse to accept cookies, Woosa will set or use cookies on your computer to enable you to log in or use cookie-dependent services or functions. Cookies help Woosa provide you with more thoughtful personalized services, including promotional services.
+You have the right to accept or reject cookies by modifying your browser settings. However, if you choose to reject cookies, you may not be able to log in or use some cookie-dependent services or functions of Woosa.
+All information obtained through cookies set by Woosa is governed by this Privacy Policy.
+7. Information Security
+The Woosa account is equipped with security protection functions. Please properly keep your username and password. Woosa will take security measures such as encrypting user passwords to ensure that your information is not lost, misused, or altered. Despite these security measures, please note that there are no "perfect security measures" on the information network.
+8. Contact Information
+If you have any questions, suggestions, or requests regarding this Privacy Policy or your personal information, please contact Woosa through the official support channels provided in the app.
+
